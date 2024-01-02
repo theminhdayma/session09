@@ -1,0 +1,44 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container {
+    width: 100px;
+    height: 300px;
+    margin-top: 100px;
+    margin-left: 100px;
+}
+
+.content {
+    font-size: 30px;
+    width: 400px;
+    height: 550px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;   
+}
+
+.image {
+    background-image: url("https://image.vtc.vn/resize/th/upload/2022/08/13/2993316005760769374995078348633094847123812n-22352242.jpeg");
+    background-position: center;
+    color: white;
+    width: 400px;
+    height: 400px;  
+}
+
+.view {
+    opacity: 50%;
+    width: 400px;
+    height: 40px;
+    background-color: black;
+    position: relative;
+    top: 360px;
+}
+
+.writing {
+    opacity: 100%;
+    font-size: 20px;
+    position: relative;
+    top: 325px;
+    left: 10px;
+}

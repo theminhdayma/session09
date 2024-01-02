@@ -1,0 +1,28 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.post-container {
+    margin-top: 100px;
+    margin-left: 300px;
+    width: 400px;
+    height: 600px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+.image {
+    background-image: url("https://rikkei.edu.vn/wp-content/uploads/2022/07/banner-popup2.png");
+    background-size: cover;
+    box-shadow: rgba(0, 0, 0, 0.55) 0px -160px 50px -18px inset;
+    color: black;
+    width: 400px;
+    height: 600px;
+}
+
+.writing {
+    position: relative;
+    left: 20px;
+    top: 490px;
+}

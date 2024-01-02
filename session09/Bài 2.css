@@ -1,0 +1,64 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.post-container {
+    margin-top: 100px;
+    margin-left: 300px;
+    width: 400px;
+    height: 400px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    border-radius: 15px;
+}
+
+.image {
+    background-image: url("https://bizweb.dktcdn.net/thumb/grande/100/180/593/products/minion-to-30k-13k-11-3k-9-6k.jpg?v=1562829364577");
+    border-radius: 15px;
+    background-size: cover;
+    color: rgb(247, 10, 10);
+    width: 400px;
+    height: 400px;
+}
+
+.writing {
+    font-size: 20px;
+    position: relative;
+    top: 330px;
+    left: 30px;
+}
+
+.button {
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    margin-left: 20PX;
+    width: 130px;
+    height: 30px;
+    background-color: red;
+    border-radius: 15px;
+    color: white;
+}
+
+.icon {
+    position: relative;
+    left: 350px;
+    font-size: 30px;
+}
+
+.vertical {
+    height: 42px;
+    width: 3px;
+    background-color: gray;
+    position: relative;
+    left: 370px;
+    bottom: 144px;
+}
+
+.vertical1 {
+    height: 42px;
+    width: 3px;
+    background-color: gray;
+    position: relative;
+    left: 370px;
+    bottom: 116px;
+}
